@@ -17,7 +17,11 @@ Builds the app for production to the `build` folder.\
 
 ### `Demo`
 
-[https://bryzgalov1.github.io/craco-module-federation/host](https://bryzgalov1.github.io/craco-module-federation/host)
+host [https://bryzgalov1.github.io/craco-module-federation/host](https://bryzgalov1.github.io/craco-module-federation/host)
+
+app1 [https://bryzgalov1.github.io/craco-module-federation/app1](https://bryzgalov1.github.io/craco-module-federation/app1)
+
+app2 [https://bryzgalov1.github.io/craco-module-federation/app2](https://bryzgalov1.github.io/craco-module-federation/app2)
 
 ### `craco.config.ts for Host`
 
