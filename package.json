@@ -1,0 +1,19 @@
+{
+    "name": "craco-module-federation",
+    "private": true,
+    "pnpm": [
+        "host",
+        "app1",
+        "app2"
+    ],
+    "engines": {
+        "node": ">= 16"
+    },
+    "scripts": {
+        "start": "pnpm --parallel --if-present run start",
+        "build": "pnpm --parallel --if-present run build"
+    },
+    "devDependencies": {
+        "pnpm": "^7.25.1"
+    }
+}
