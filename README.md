@@ -6,6 +6,7 @@ Remotes app: app1 app2
 
 ## Running Demo
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
